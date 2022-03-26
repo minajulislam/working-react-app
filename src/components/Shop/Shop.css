@@ -7,6 +7,13 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 40px;
 }
+.cart-container{
+    text-align: center;
+    height: 500px;
+    background-color: rgb(245, 196, 106);
+    border-radius: 10px;
+
+}
 @media screen and (max-width:1200px){
 .products-container{
 grid-template-columns: repeat(3, 1fr);
@@ -23,5 +30,6 @@ grid-template-columns: repeat(3, 1fr);
 }
 .cart-container{
     text-align: center;
+    background-color: rgb(245, 196, 106);
 }
 }
