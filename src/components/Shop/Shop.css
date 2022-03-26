@@ -17,4 +17,11 @@ grid-template-columns: repeat(3, 1fr);
 .products-container{
     grid-template-columns: 1fr;
 }
+.shop-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.cart-container{
+    text-align: center;
+}
 }
