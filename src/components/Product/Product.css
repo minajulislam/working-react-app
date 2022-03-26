@@ -1,0 +1,14 @@
+.product img{
+    width: 250px;
+    height: 250px;
+}
+.product{
+   width: 250px;
+   height: 500px;
+   line-height: 0.8;
+   border: 2px solid rgb(207, 91, 110);
+   border-radius: 10px;
+   padding: 20px;
+
+
+}

@@ -1,0 +1,98 @@
+ [
+    {
+        "id":"1",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta%20CB%20Rider%2020%20Inch%20Blue.jpg",
+        "price": "4500",
+        "code":"10001",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"2",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Twitter-Gravel-bike.JPG",
+        "price": "4500",
+        "code":"10002",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"3",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta-Classic-Bicycle-28.jpg",
+        "price": "4500",
+        "code":"10003",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"4",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta-Durjoy-Double-Bar-Bicycle-26-Blk-Red.jpg",
+        "price": "4500",
+        "code":"10004",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"5",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Marine-24-Metal-Body-Single-Speed-Bicycle-For-Men%20(2).jpg",
+        "price": "4500",
+        "code":"10005",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"6",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/marine-24-metal-body-single-speed-bicycle-for-men.jpg",
+        "price": "4500",
+        "code":"10006",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"7",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/duranta%20gravity%2026.jpg",
+        "price": "4500",
+        "code":"10007",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"8",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta%20Bicycle%20Steel%201-Spd%20Scool-M-20.jpg",
+        "price": "4500",
+        "code":"10008",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"9",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta%20CB%20Optimus-26%20S%20Spd.jpg",
+        "price": "4500",
+        "code":"10009",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"10",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Veloce%20%20Alloy%20Frame%20Alloy%20Rim%201%20Speed%20Bicycle.jpg",
+        "price": "4500",
+        "code":"10010",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"11",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Duranta%20Maxus%20%20Gents%20Red.jpg",
+        "price": "4500",
+        "code":"10011",
+        "brand":"Renger Max"
+    },
+    {
+        "id":"12",
+        "productName": "hero bicycle",
+        "img": "https://www.bicyclebd.com/images/products/Phoenix%20Alloy%2021%20Speed%20Bicycle%20For%20Men%20Mixed.jpg",
+        "price": "4500",
+        "code":"10012",
+        "brand":"Renger Max"
+    }
+]
