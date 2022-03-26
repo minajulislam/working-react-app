@@ -1,14 +1,28 @@
 .product img{
     width: 250px;
     height: 250px;
+    padding-left: 5px;
 }
 .product{
-   width: 250px;
+   width: 280px;
    height: 500px;
-   line-height: 0.8;
+   
    border: 2px solid rgb(207, 91, 110);
    border-radius: 10px;
-   padding: 20px;
+   
+   position: relative;
 
 
+}
+.body-info{
+    padding: 20px;
+    line-height: 0.8;
+}
+.btn-cart{
+    width: 100%;
+    background: rgb(202, 202, 46);
+    border: none;
+    border-radius: 8px;
+    position: absolute;
+    bottom: 0;
 }

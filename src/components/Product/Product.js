@@ -5,11 +5,17 @@ const product = (props) => {
     const {productName, img, price,code, brand} = props.product
     return (
         <div className='product'>
-             <img src={img} alt=""></img> 
+             <img src={img} alt=""></img>
+             <div className='body-info'>
              <h3>Name:{productName}</h3>
              <h3>Price:{price}</h3>
              <h3>Code:{code}</h3>
-             <h3>Brand:{brand}</h3>
+             <h3>Brand:{brand}</h3><br></br>
+             </div> 
+             
+             <button className="btn-cart">
+                 <p>Add to Cart</p>
+            </button>
         </div>
     );
 };
